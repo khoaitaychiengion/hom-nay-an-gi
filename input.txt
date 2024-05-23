@@ -1,8 +1,7 @@
 Bún bò Huế
 Bún thịt nướng
 Phở bò
-Phở gà
-Bánh mì
+Bánh mì thịt
 Bánh canh cua
 Cơm tấm
 Cơm gà
@@ -10,10 +9,22 @@ Cơm chiên
 Bánh ướt
 Bún đậu
 Lẩu thái
+Bánh canh cá lóc
 Lẩu chay
 Lẩu kim chi
-Hủ tiếu
+Hủ tiếu mì
 Cháo lòng
 Bánh xèo
+Phở gà
 Bún riêu
+Hủ tiếu chay
 Bún Thái
+Bún cá
+Hủ tiếu bò
+Phở chay
+Bánh ướt
+Bánh cuốn
+Xôi mặn
+Bột chiên
+Gỏi cuốn
+Pò pía
