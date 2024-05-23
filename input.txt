@@ -3,8 +3,8 @@ Cơm gà nướng
 Bún thịt nướng
 Phở bò
 Bánh mì thịt
+Cơm chin chin
 Cơm tấm
-Cơm chiên 
 Bánh ướt
 Bún đậu
 Lẩu thái
@@ -13,13 +13,16 @@ Lẩu chay
 Cơm gà xé
 Lẩu kim chi
 Hủ tiếu mì
+Cơm anh Chính
 Cháo lòng
 Bánh xèo
 Phở gà
+Cơm chiên 
 Bún riêu
 Hủ tiếu chay
 Bún Thái
 Bún cá
+Cơm Nguyệt Moon
 Hủ tiếu bò
 Cơm gà
 Phở chay
@@ -34,3 +37,4 @@ Gỏi cuốn
 Pò pía
 Cơm chay
 Nem nướng
+Cơm Đỗ Nga
